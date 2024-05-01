@@ -38,19 +38,19 @@ Passos para instalar e configurar o sistema.
 2. Importe o projeto para o Android Studio.
 
 3. Crie uma conta no [HiveMQ](https://www.hivemq.com/).
-<img src="/app/src/main/res/prints_hivemqtt/1.png" width="300">
+<img src="/app/src/main/res/prints_hivemqtt/1.png">
 
 4. Configure um Servidor
-<img src="/app/src/main/res/prints_hivemqtt/2.png" width="300">
+<img src="/app/src/main/res/prints_hivemqtt/2.png">
  
 5. Acesse as Credenciais 
-<img src="/app/src/main/res/prints_hivemqtt/3.png" width="300">
+<img src="/app/src/main/res/prints_hivemqtt/3.png">
 
 6. Conecte o Web Client  
-<img src="/app/src/main/res/prints_hivemqtt/4.png" width="300">
+<img src="/app/src/main/res/prints_hivemqtt/4.png">
 
 7. Crie um Topico        
-<img src="/app/src/main/res/prints_hivemqtt/5.png" width="300">   
+<img src="/app/src/main/res/prints_hivemqtt/5.png">   
 
 ## Uso
 Possibilidade de enviar e receber mensagens através do aplicativo ou do tópico no servidor.

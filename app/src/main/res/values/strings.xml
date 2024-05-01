@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Mqtt_Android</string>
+    <string name="Nome_App">Aplicação de Envio e Recebimento de Mensagens via MQTT</string>
+    <string name="mensagem">Digite sua mensagem</string>
+    <string name="enviar">Enviar</string>
+    <string name="msg_enviadas_recebidas">Mensagens Enviadas/Recebidas:</string>
+</resources>

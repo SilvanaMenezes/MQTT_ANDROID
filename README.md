@@ -6,10 +6,10 @@ Aplicação Android que envia e recebe mensagem atravé o protocolo MQTT.
 
 ## Funcionalidades
 
-- [ ] Estabelecer uma conexão com um broker MQTT.
-- [ ] Publicar mensagens em um tópico específico.
-- [ ] Subscrever a um tópico e receber mensagens publicadas neste tópico.
-- [ ] Ser capaz de lidar com as operações básicas de conexão, publicação e subscrição de forma eficiente e sem erros.
+- [X] Estabelecer uma conexão com um broker MQTT.
+- [X] Publicar mensagens em um tópico específico.
+- [X] Subscrever a um tópico e receber mensagens publicadas neste tópico.
+- [X] Ser capaz de lidar com as operações básicas de conexão, publicação e subscrição de forma eficiente e sem erros.
 
 ## Tecnologias Utilizadas
 
@@ -77,7 +77,7 @@ Projeto no GitHub do colega Wesley - MQTT: Conectando Dispositivos para a Era da
 
 - Tela Servidor
 <p>Mensagens do lado web client.</p>
-<img src="" width="300">
+<img src="/app/src/main/res/prints_hivemqtt/6.png" width="300">
 
 
 

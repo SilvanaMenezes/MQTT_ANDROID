@@ -55,11 +55,6 @@ Passos para instalar e configurar o sistema.
 ## Uso
 Possibilidade de enviar e receber mensagens através do aplicativo ou do tópico no servidor.
 
-
-## Telas do App
-<p>Tela Inicial do app.</p>
-<img src="" width="300">
-
 ## Desenvolvimento
 
 | Passos                          | Descrição
@@ -78,7 +73,11 @@ Projeto no GitHub do colega Wesley - MQTT: Conectando Dispositivos para a Era da
 - [MQTT](https://github.com/seu-usuario/MQTT.git)
 
 ## Simulação
-- [MQTT_ANDROID]()
+- [MQTT_ANDROID](https://github.com/SilvanaMenezes/MQTT_ANDROID/assets/56271202/91ec4cb9-4fae-4686-8324-011ece3c4bd3)
+
+- Tela Servidor
+<p>Mensagens do lado web client.</p>
+<img src="" width="300">
 
 
 
